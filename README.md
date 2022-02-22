@@ -2,7 +2,7 @@
 Read values from SMA Tripower via ModbusTCP
 
 Gives for example the following resuts:
-SerNo =  300XZY701
+SerNo =  300XZY701<br>
 PowerGrid = 258 W
 CondMode =  307
 OpHrs = 8962.39 hrs
