@@ -20,7 +20,7 @@ class convert(ctypes.Union):
                 ("sint32", ctypes.c_int32),
                 ("uint32", ctypes.c_uint32)]
 
-TCP_IP = '192.168.144.54'
+TCP_IP = '192.168.X.Y'
 UNIT_ID = 3
 PORT = 502
 
